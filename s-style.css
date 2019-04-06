@@ -1,0 +1,15 @@
+.recom_link .tag_link {
+    color: #a9a6a6;
+    text-decoration: none;
+    border: 1px solid #a9a5a6;
+    display: inline-block;
+    padding: 5px 10px;
+    text-align: center;
+    border-radius: 30px;
+    margin: 2px 2px;
+}
+
+.recom_link .tag_link:first-child, .recom_link .tag_link:hover {
+    border: 1px solid #6985bc;
+    color: #6985bc;
+}
