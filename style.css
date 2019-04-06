@@ -80,14 +80,16 @@ input#search_box::placeholder {
     color: #7faacf;
 }
 
-
+.form-group {
+    margin-bottom: 0;
+}
 form.search_cat p {
     font-size: 15px;
     margin: 0;
     position: relative;
     border-radius: 3px;
     border: 1px solid #abd7fe;
-    height: 39px;
+    height: 100%;
     border-right: none;
     padding: 7px;
     -webkit-transform: translateX(0px);
